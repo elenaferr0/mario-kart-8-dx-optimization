@@ -1,4 +1,4 @@
-# Mario Kart 8 Deluxe best combos: the Combinatorial Optimization & Game Theory approach
+# Mario Kart 8 Deluxe best combos: the Combinatorial Optimization approach
 
 <img src="wallpaper.png" style="border-radius: 10px">
 
@@ -115,7 +115,6 @@ $$
 ds_i = \text{Speed (Ground)} + \text{Speed (Water)} + \text{Speed (Air)} + \text{Speed (Anti-Gravity)}
 $$
 
-## Game Theory
 ### Pareto optimality
 A solution is Pareto optimal if there is no other solution that is better in at least one objective without being worse in
 another. 
