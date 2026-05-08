@@ -1,3 +1,5 @@
+> ⚠️ This repo has been migrated to Codeberg https://codeberg.org/elenaferr0/mario-kart-8-dx-optimization/
+
 # Mario Kart 8 Deluxe best combos: the Combinatorial Optimization approach
 
 <img src="wallpaper.png" style="border-radius: 10px">
